@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51948792368@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE4023AF1E91597AE867C7DBB5F8E23A',
+    participant: undefined
+  },
+  messageTimestamp: 1727681622,
+  pushName: 'Maria Paulina',
+  broadcast: false,
+  message: Message {
+    conversation: '/fgm franchesco',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '/fgm franchesco',
+  from: '51948792368'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_531399d2-a214-448e-aa89-3bc12ba1755d',
+  keyword: 'key_a6a26a1d-e091-4749-885d-dddd67db610e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '82ca90b3ec9fa73f183833b10dcc71aa'
+}
